@@ -1,4 +1,4 @@
-## Hi, I'm Nikhil 🚀
+## Hi, I'm Nikhil Pise🚀
 
 💻 Computer Science Student at DJ Sanghvi <br/>
 🤖 Seeking ML Dev roles <br/>
