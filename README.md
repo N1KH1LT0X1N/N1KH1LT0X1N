@@ -1,6 +1,4 @@
-<p align = 'center'>
-    
-  ### Hi, I'm Nikhil Pise🚀
+### Hi, I'm Nikhil Pise🚀
 
 💻 Computer Science Student at DJ Sanghvi <br/>
 🤖 Seeking ML Dev roles <br/>
@@ -30,5 +28,3 @@
 [![](https://visitcount.itsvg.in/api?id=N1KH1LT0X1N&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-</p>
