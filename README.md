@@ -12,7 +12,7 @@
 🤖 Seeking ML Dev roles <br/>
 🏅 2⭐️ @CodeChef <br/>
 ⚡ 1st National Runner-up of MakeX World Robotics <br/>
-🌐 [View My Portfolio Website](https://n1kh1lt0x1n.github.io/N1KH1LT0X1N/) <br/>
+🌐 [View My Portfolio Website](https://nikhilpise-portfolio.netlify.app/) <br/>
 
 ---
 
@@ -172,7 +172,7 @@ Whether you want to discuss a project, need ML consultation, or just want to cha
 
 [![Email](https://img.shields.io/badge/Email-nikhilpise2006%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nikhilpise2006@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nikhil-pravin-pise)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-667eea?style=for-the-badge&logo=google-chrome&logoColor=white)](https://n1kh1lt0x1n.github.io/N1KH1LT0X1N/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-667eea?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nikhilpise-portfolio.netlify.app)
 
 **⚡ Fun fact:** When I'm not coding, you'll find me exploring robotics, competing in hackathons, or perfecting my photography skills!
 
@@ -185,8 +185,6 @@ Whether you want to discuss a project, need ML consultation, or just want to cha
 ### ⭐ If you find my work interesting, consider starring this repo!
 
 **Built with ❤️ by Nikhil Pise**
-
-![Profile Views](https://visitcount.itsvg.in/api?id=N1KH1LT0X1N&icon=0&color=0)
 
 </div>
 
