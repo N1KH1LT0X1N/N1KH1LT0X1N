@@ -2,7 +2,6 @@
 
 <div align="center">
 
-![Snake Animation](https://github.com/N1KH1LT0X1N/N1KH1LT0X1N/actions/workflows/main.yml/badge.svg)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
 
 </div>
