@@ -1,0 +1,55 @@
+name: Greetings
+
+on:
+  issues:
+    types: [opened]
+  pull_request_target:
+    types: [opened]
+
+permissions:
+  issues: write
+  pull-requests: write
+
+jobs:
+  greeting:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Greet new contributor on issue
+        if: github.event_name == 'issues'
+        uses: actions/first-interaction@v1
+        with:
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
+          issue-message: |
+            👋 Hello @${{ github.actor }}!
+            
+            Thank you for opening your first issue! I appreciate you taking the time to contribute to this project.
+            
+            I'll review your issue as soon as possible and get back to you. In the meantime, feel free to:
+            - ⭐ Star the repository if you find it useful
+            - 📖 Check out the [documentation](../README.md)
+            - 💬 Join the discussion in other issues
+            
+            Happy coding! 🚀
+      
+      - name: Greet new contributor on PR
+        if: github.event_name == 'pull_request_target'
+        uses: actions/first-interaction@v1
+        with:
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
+          pr-message: |
+            🎉 Congratulations on your first Pull Request, @${{ github.actor }}!
+            
+            Thank you for contributing! Your PR will be reviewed soon. Here's what happens next:
+            
+            ✅ Automated checks will run
+            👀 Code review by maintainer
+            💬 Feedback and discussion (if needed)
+            🎊 Merge after approval
+            
+            **Tips for a smooth review:**
+            - Ensure all tests pass
+            - Respond to feedback promptly
+            - Keep commits focused and well-documented
+            
+            Thank you for making this project better! 🙏
