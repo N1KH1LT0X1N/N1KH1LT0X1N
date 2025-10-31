@@ -3,7 +3,6 @@
 <div align="center">
 
 ![Snake Animation](https://github.com/N1KH1LT0X1N/N1KH1LT0X1N/actions/workflows/main.yml/badge.svg)
-[![Profile Views](https://visitcount.itsvg.in/api?id=N1KH1LT0X1N&icon=0&color=0)](https://visitcount.itsvg.in)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
 
 </div>
