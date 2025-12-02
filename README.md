@@ -1,74 +1,96 @@
-# Hi, I'm Nikhil Pise 🚀
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:667eea,100:764ba2&text=Hi,%20I'm%20Nikhil&fontColor=ffffff&desc=Deep%20Learning%20•%20Computer%20Vision%20•%20NLP&descAlign=50&fontAlign=50&fontAlignY=45" width="100%" alt="header"/>
+</p>
 
 <div align="center">
 
-![Snake Animation](https://github.com/N1KH1LT0X1N/N1KH1LT0X1N/actions/workflows/main.yml/badge.svg)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
+[![GitHub followers](https://img.shields.io/github/followers/N1KH1LT0X1N?style=for-the-badge&color=667eea&label=Followers)](https://github.com/N1KH1LT0X1N?tab=followers)
+![Profile Views](https://komarev.com/ghpvc/?username=N1KH1LT0X1N&style=for-the-badge&color=667eea&labelColor=0d1117&label=Profile+Views)
 
 </div>
 
-💻 Computer Science Student at DJ Sanghvi <br/>
-🤖 Seeking ML Dev roles <br/>
-🏅 2⭐️ @CodeChef <br/>
-⚡ 1st National Runner-up of MakeX World Robotics <br/>
-🌐 [View My Portfolio Website](https://nikhilpise-portfolio.netlify.app/) <br/>
-
 ---
 
-## 📋 Table of Contents
-- [👋 About Me](#-about-me)
-- [🌐 Socials](#-socials)
-- [💻 Tech Stack](#-tech-stack)
-- [🚀 Featured Projects](#-featured-projects)
-- [📊 GitHub Stats](#-github-stats)
-- [🏆 Achievements](#-achievements)
-- [📫 Let's Connect](#-lets-connect)
-
----
-
-## 👋 About Me
-
-I'm a passionate Computer Science student specializing in **Machine Learning** and **Full Stack Development**. With a strong foundation in algorithms, data structures, and modern web technologies, I love building innovative solutions that make a real impact.
-
-**🎯 Current Focus:**
-- Building ML models for real-world applications
-- Contributing to open-source projects
-- Solving algorithmic challenges on CodeChef & LeetCode
-- Developing full-stack web applications
-
-**🔭 Looking For:**
-- Machine Learning Developer/Engineer roles
-- Open-source collaboration opportunities
-- Interesting projects in AI/ML and Web Development
-
----
-
-# 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nikhil-pravin-pise) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nikhilpise2006@gmail.com) 
-
----
-
-## 🚀 Featured Projects
+<h2 align="center" style="color:white;">👨‍💻 About Me</h2>
 
 <div align="center">
 
-### 🤖 Machine Learning Projects
-Check out my ML implementations in [`/projects/ml-projects/`](./projects/ml-projects/)
+<p align="center" style="color:white; font-size:16px; max-width:600px;">
+💡 Passionate about <b>Deep Learning</b>, <b>Computer Vision</b>, and <b>NLP</b><br><br>
+🤖 Building AI models that solve real-world problems.<br>
+✨ Always exploring cutting-edge ML techniques and architectures.
+</p>
 
-**Sentiment Analysis API** | Python, Flask, Scikit-learn  
-RESTful API for analyzing text sentiment with 85%+ accuracy
+</div>
 
-### 🌐 Web Development
-Explore web projects in [`/projects/web-projects/`](./projects/web-projects/)
+<div align="center">
 
-**Personal Portfolio** | React, CSS3, GitHub Pages  
-Responsive portfolio showcasing projects and skills
+<table style="color:white;">
+  <tr>
+    <td>💭</td>
+    <td><b>Currently learning</b></td>
+    <td>Advanced ML & Transformers</td>
+  </tr>
+  <tr>
+    <td>🚀</td>
+    <td><b>Working on</b></td>
+    <td>ML Projects & Research</td>
+  </tr>
+  <tr>
+    <td>🤝</td>
+    <td><b>Collaborating on</b></td>
+    <td>Open Source & ML Applications</td>
+  </tr>
+  <tr>
+    <td>📬</td>
+    <td><b>Contact</b></td>
+    <td><a href="mailto:nikhilpise2006@gmail.com">nikhilpise2006@gmail.com</a></td>
+  </tr>
+  <tr>
+    <td>🌐</td>
+    <td><b>Portfolio</b></td>
+    <td><a href="https://n1kh1lt0x1n.github.io/N1KH1LT0X1N/">n1kh1lt0x1n.github.io</a></td>
+  </tr>
+</table>
 
-### 📚 Algorithms & Problem Solving
-View implementations in [`/projects/algorithms/`](./projects/algorithms/)
+</div>
 
-**CodeChef Solutions** | C++, Python  
-Competitive programming solutions with detailed explanations
+--- 
+
+---
+
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-six-seven.vercel.app/api?username=N1KH1LT0X1N&show_icons=true&count_private=true&theme=transparent&title_color=667eea&icon_color=667eea&text_color=ffffff">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-six-seven.vercel.app/api?username=N1KH1LT0X1N&show_icons=true&count_private=true&theme=default">
+    <img alt="GitHub Stats" src="https://github-readme-stats-six-seven.vercel.app/api?username=N1KH1LT0X1N&show_icons=true&count_private=true&theme=default" height="200px">
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=N1KH1LT0X1N&layout=compact&langs_count=8&theme=transparent&title_color=667eea&text_color=ffffff">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=N1KH1LT0X1N&layout=compact&langs_count=8&theme=default">
+    <img alt="Top Languages" src="https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=N1KH1LT0X1N&layout=compact&langs_count=8&theme=default" height="200px">
+  </picture>
+
+</div>
+
+<div align="center">
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=N1KH1LT0X1N&theme=transparent&ring=667eea&fire=667eea&currStreakLabel=667eea" alt="GitHub Streak" height="200px"/>
+</div>
+
+---
+
+<h3 align="center">🚀 Featured ML Projects</h3>
+
+<div align="center">
+
+Explore my work in [`/projects/ml-projects/`](./projects/ml-projects/):
+
+- **Computer Vision** - YOLO Object Detection | 30+ FPS | TensorRT Optimized
+- **NLP Transformers** - BERT/GPT Models | 92-94% Accuracy | FastAPI Deployment
+- **Time Series Forecasting** - LSTM/Transformers | 85% Accuracy | Multi-domain Applications
 
 [**→ View All Projects**](./projects/)
 
@@ -76,115 +98,37 @@ Competitive programming solutions with detailed explanations
 
 ---
 
-# 💻 Tech Stack:
-## Languages:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) </br>
+<h3 align="center">🛠️ Tech Stack</h3>
 
-## Web Development:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) 
-![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) 
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) </br>
+<div align="center" style="color: #667eea; font-weight: bold; margin: 20px 0;">
 
-## Machine Learning:
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) 
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) 
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)</br>
+**ML Frameworks:** PyTorch • TensorFlow • Keras • Scikit-learn<br>
+**Computer Vision:** OpenCV • YOLO • MediaPipe • TensorRT<br>
+**NLP:** Hugging Face Transformers • spaCy • NLTK<br>
+**Data Science:** Pandas • NumPy • Matplotlib • Plotly • Jupyter<br>
+**Backend:** FastAPI • Flask • Django<br>
+**DevOps:** Docker • GitHub Actions • AWS • GCP<br>
+**Languages:** Python • C++ • Java • JavaScript<br>
 
-## Miscellaneous:
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) 
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) 
+</div> 
 
 ---
 
-## 🏆 Achievements
+<h3 align="center">🏆 Notable Achievements</h3>
 
-- 🥈 **1st National Runner-up** - MakeX World Robotics Competition
-- ⭐ **2-Star Coder** - CodeChef
-- 🎓 **Computer Science Student** - DJ Sanghvi College of Engineering
-- 🚀 **Open Source Contributor** - Active on GitHub
-- 💡 **Problem Solver** - 100+ algorithmic problems solved
+<div align="center" style="color: white;">
 
---- 
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=N1KH1LT0X1N&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=N1KH1LT0X1N&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=N1KH1LT0X1N&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/N1KH1LT0X1N/N1KH1LT0X1N/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/N1KH1LT0X1N/N1KH1LT0X1N/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/N1KH1LT0X1N/N1KH1LT0X1N/output/github-contribution-grid-snake.svg">
-</picture>
-
-# 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=N1KH1LT0X1N&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-# ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-# 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=N1KH1LT0X1N&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
----
-
-## 📫 Let's Connect!
-
-<div align="center">
-
-I'm actively seeking **ML Developer/Engineer roles** and exciting collaboration opportunities!
-
-**💼 Open to:** Full-time roles | Internships | Freelance Projects | Open Source Collaborations
-
-**🎯 Interested in:** Machine Learning | AI | Web Development | Robotics | Competitive Programming
-
-### 📬 Reach Out
-
-Whether you want to discuss a project, need ML consultation, or just want to chat about tech - I'm always happy to connect!
-
-[![Email](https://img.shields.io/badge/Email-nikhilpise2006%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nikhilpise2006@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nikhil-pravin-pise)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-667eea?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nikhilpise-portfolio.netlify.app)
-
-**⚡ Fun fact:** When I'm not coding, you'll find me exploring robotics, competing in hackathons, or perfecting my photography skills!
+🥈 **1st National Runner-up** - MakeX World Robotics Competition  
+🎓 **Computer Science Student** - DJ Sanghvi College of Engineering  
+🚀 **Open Source Contributor** - Active on GitHub  
+💡 **Problem Solver** - Competitive Programming & ML Projects  
 
 </div>
 
 ---
 
-<div align="center">
+<h3 align="center" style="color:white;">
+  🚀 Building Tomorrow's AI Solutions Today.
+</h3>
 
-### ⭐ If you find my work interesting, consider starring this repo!
-
-**Built with ❤️ by Nikhil Pise**
-
-</div>
-
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer"/>
