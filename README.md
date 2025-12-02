@@ -49,7 +49,7 @@
   <tr>
     <td>🌐</td>
     <td><b>Portfolio</b></td>
-    <td><a href="https://n1kh1lt0x1n.github.io/N1KH1LT0X1N/">n1kh1lt0x1n.github.io</a></td>
+    <td><a href="https://nikhilpise-portfolio.netlify.app/">nikhilpise-portfolio.netlify.app</a></td>
   </tr>
 </table>
 
@@ -77,7 +77,7 @@
 
 <div align="center">
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=N1KH1LT0X1N&theme=transparent&ring=667eea&fire=667eea&currStreakLabel=667eea" alt="GitHub Streak" height="200px"/>
+  <img src="https://github-readme-streak-stats.vercel.app/?user=N1KH1LT0X1N&theme=transparent&ring=667eea&fire=667eea&currStreakLabel=667eea" alt="GitHub Streak" height="200px"/>
 </div>
 
 ---
