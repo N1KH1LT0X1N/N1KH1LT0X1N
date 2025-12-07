@@ -9,9 +9,17 @@
 
 </div>
 
----
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=N1KH1LT0X1N&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=N1KH1LT0X1N&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=N1KH1LT0X1N&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<h2 align="center" style="color:white;">👨‍💻 About Me</h2>
+---
+[![](https://visitcount.itsvg.in/api?id=N1KH1LT0X1N&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<h3 align="center">🚀 Featured ML Projects</h3>
 
 <div align="center">
 
