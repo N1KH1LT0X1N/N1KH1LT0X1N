@@ -14,16 +14,16 @@ assets/
 
 ## 🎨 Usage Guidelines
 
-- **Images:** Use for README illustrations, project screenshots
+- **Images:** Use for README illustrations, screenshots
 - **Icons:** Repository logo, technology icons
-- **Banners:** Profile header, project headers
+- **Banners:** Profile header, promotional images
 - **Videos:** Demo videos, tutorials
 
 ## 📐 Recommended Sizes
 
 - **Banner:** 1280x640px (GitHub social preview)
 - **Profile Picture:** 400x400px
-- **Project Screenshots:** 1200px width (responsive height)
+- **Screenshots:** 1200px width (responsive height)
 - **Icons:** 256x256px or SVG
 
 ## 🖼️ Image Optimization

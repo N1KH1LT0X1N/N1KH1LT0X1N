@@ -17,14 +17,7 @@ N1KH1LT0X1N/
 │   │   └── greetings.yml         # Welcome new contributors
 │   ├── FUNDING.yml
 │   └── PULL_REQUEST_TEMPLATE.md
-├── projects/
-│   ├── ml-projects/
-│   │   └── sentiment-analysis/   # Flask API project
-│   ├── web-projects/             # Web development projects
-│   └── algorithms/               # Algorithm implementations
-├── docs/
-│   ├── index.html                # GitHub Pages portfolio
-│   └── README.md
+
 ├── assets/
 │   └── README.md                 # Media assets directory
 ├── README.md                     # Main profile README
@@ -44,17 +37,7 @@ N1KH1LT0X1N/
 - Automatically displays on your profile: `github.com/N1KH1LT0X1N`
 - Features dynamic stats, badges, and snake animation
 
-### 2️⃣ **Portfolio Website**
-- Located in `/docs/index.html`
-- Enable GitHub Pages to publish it
-- Professional, responsive design
-
-### 3️⃣ **Sample Projects**
-- ML project with Flask API in `/projects/ml-projects/`
-- Structure for web and algorithm projects
-- Each with README and setup instructions
-
-### 4️⃣ **Automated Workflows**
+### 2️⃣ **Automated Workflows**
 - Snake animation updates every 12 hours
 - Daily profile stats updates
 - Weekly metrics reports
@@ -78,12 +61,8 @@ N1KH1LT0X1N/
 
 2. **Make changes**
    - Edit `README.md` for profile updates
-   - Add projects to `/projects/`
-   - Customize `/docs/index.html` for portfolio
 
 3. **Test locally**
-   - Open `docs/index.html` in browser
-   - Run Python projects: `cd projects/ml-projects/sentiment-analysis && python app.py`
 
 4. **Commit and push**
    ```bash
@@ -92,51 +71,10 @@ N1KH1LT0X1N/
    git push origin main
    ```
 
-## 🌐 Enable GitHub Pages
-
-To publish your portfolio website:
-
-1. Go to **Settings** → **Pages**
-2. Under **Source**, select:
-   - Branch: `main`
-   - Folder: `/docs`
-3. Click **Save**
-4. Your site will be live at: `https://n1kh1lt0x1n.github.io/N1KH1LT0X1N/`
-
-## 🤖 Running Sample Projects
-
-### Sentiment Analysis API
-
-```bash
-cd projects/ml-projects/sentiment-analysis
-pip install -r requirements.txt
-python app.py
-```
-
-Visit `http://localhost:5000` and test with:
-```bash
-curl -X POST http://localhost:5000/analyze \
-  -H "Content-Type: application/json" \
-  -d '{"text": "I love this!"}'
-```
-
 ## 📝 Common Tasks
 
 ### Update Your Bio
 Edit the top section of `README.md`
-
-### Add a New Project
-1. Create folder in `/projects/[category]/[project-name]/`
-2. Add `README.md`, code files, and `requirements.txt`
-3. Update `/projects/README.md` with project info
-4. Link from main `README.md` in Featured Projects section
-
-### Customize Portfolio
-Edit `/docs/index.html` - change:
-- Personal information
-- Project descriptions
-- Color scheme (in `<style>` section)
-- Social links
 
 ### Add New Workflow
 Create `.github/workflows/your-workflow.yml` following existing examples
@@ -148,11 +86,6 @@ Create `.github/workflows/your-workflow.yml` following existing examples
 - Verify `output` branch exists
 - Wait ~10 minutes after first push
 
-### GitHub Pages Not Working
-- Ensure Pages is enabled in Settings
-- Check source is set to `main` branch, `/docs` folder
-- Clear browser cache
-
 ### Workflow Failing
 - Check Actions tab for error logs
 - Verify GITHUB_TOKEN permissions
@@ -161,15 +94,11 @@ Create `.github/workflows/your-workflow.yml` following existing examples
 ## 📚 Next Steps
 
 1. ✅ **Personalize README** with your specific details
-2. ✅ **Enable GitHub Pages** to publish portfolio
-3. ✅ **Add real projects** to `/projects/`
-4. ✅ **Customize portfolio** styling and content
-5. ✅ **Share your profile** on LinkedIn, resume, etc.
+2. ✅ **Share your profile** on LinkedIn, resume, etc.
 
 ## 💡 Tips
 
 - **Keep README updated** - It's your digital business card!
-- **Add real projects** - Showcase actual work, not just placeholders
 - **Maintain code quality** - Add tests, documentation
 - **Be active** - Regular commits show consistency
 - **Engage community** - Respond to issues/PRs promptly

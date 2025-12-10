@@ -85,15 +85,6 @@ Thank you for your interest in contributing! 🎉
 - Ensure no existing functionality breaks
 - Add test cases for new features (if applicable)
 
-## 📚 Adding Projects
-
-When adding projects to `/projects/`:
-1. Create a new folder with descriptive name
-2. Include a detailed README.md
-3. Add requirements/dependencies file
-4. Include sample data if needed
-5. Provide clear setup instructions
-
 ## 🎨 Design Guidelines
 
 - Maintain consistent visual style

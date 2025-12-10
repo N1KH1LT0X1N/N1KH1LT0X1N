@@ -15,7 +15,7 @@
 
 <p align="center" style="color:white; font-size:16px; max-width:600px;">
 💡 Passionate about <b>Deep Learning</b>, <b>Computer Vision</b>, and <b>NLP</b><br><br>
-🤖 Building AI models that solve real-world problems.<br>
+🤖 Learning to build AI models that solve real-world problems.<br>
 ✨ Always exploring cutting-edge ML techniques and architectures.
 </p>
 
@@ -32,7 +32,7 @@
   <tr>
     <td>🚀</td>
     <td><b>Working on</b></td>
-    <td>ML Projects & Research</td>
+    <td>Learning ML & Research</td>
   </tr>
   <tr>
     <td>🤝</td>
@@ -77,22 +77,6 @@
 
 ---
 
-<h3 align="center">🚀 Featured ML Projects</h3>
-
-<div align="center">
-
-Explore my work in [`/projects/ml-projects/`](./projects/ml-projects/):
-
-- **Computer Vision** - YOLO Object Detection | 30+ FPS | TensorRT Optimized
-- **NLP Transformers** - BERT/GPT Models | 92-94% Accuracy | FastAPI Deployment
-- **Time Series Forecasting** - LSTM/Transformers | 85% Accuracy | Multi-domain Applications
-
-[**→ View All Projects**](./projects/)
-
-</div>
-
----
-
 <h3 align="center">🛠️ Tech Stack</h3>
 
 <div align="center" style="color: #667eea; font-weight: bold; margin: 20px 0;">
@@ -116,7 +100,7 @@ Explore my work in [`/projects/ml-projects/`](./projects/ml-projects/):
 🥈 **1st National Runner-up** - MakeX World Robotics Competition  
 🎓 **Computer Science Student** - DJ Sanghvi College of Engineering  
 🚀 **Open Source Contributor** - Active on GitHub  
-💡 **Problem Solver** - Competitive Programming & ML Projects  
+💡 **Problem Solver** - Competitive Programming Enthusiast  
 
 </div>
 
