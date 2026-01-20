@@ -120,9 +120,9 @@ achievements:
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
-  <img width="32%" src="https://github-readme-stats-six-seven.vercel.app/api?username=N1KH1LT0X1N&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9" alt="GitHub Stats"/>
-  <img width="20%" src="https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=N1KH1LT0X1N&layout=donut-vertical&langs_count=5&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=c9d1d9" alt="Top Languages"/>
-  <img width="32%" src="https://nirzak-streak-stats.vercel.app/?user=N1KH1LT0X1N&theme=tokyonight&hide_border=true&background=0d1117&ring=667eea&fire=764ba2&currStreakLabel=667eea" alt="GitHub Streak"/>
+  <img width="40%" src="https://github-readme-stats-six-seven.vercel.app/api?username=N1KH1LT0X1N&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9" alt="GitHub Stats"/>
+  <img width="28%" src="https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=N1KH1LT0X1N&layout=donut-vertical&langs_count=5&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=c9d1d9" alt="Top Languages"/>
+  <img width="40%" src="https://nirzak-streak-stats.vercel.app/?user=N1KH1LT0X1N&theme=tokyonight&hide_border=true&background=0d1117&ring=667eea&fire=764ba2&currStreakLabel=667eea" alt="GitHub Streak"/>
 </p>
 
 ---
