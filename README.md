@@ -138,13 +138,10 @@ achievements:
 
 ## 🐍 Contribution Snake
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/N1KH1LT0X1N/N1KH1LT0X1N/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/N1KH1LT0X1N/N1KH1LT0X1N/output/github-contribution-grid-snake.svg">
-    <img alt="snake animation" src="https://raw.githubusercontent.com/N1KH1LT0X1N/N1KH1LT0X1N/output/github-contribution-grid-snake.svg" width="100%">
-  </picture>
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/N1KH1LT0X1N/N1KH1LT0X1N/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="snake animation" width="100%"/>
+  <img src="https://raw.githubusercontent.com/N1KH1LT0X1N/N1KH1LT0X1N/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="snake animation" width="100%"/>
+</div>
 
 ---
 
