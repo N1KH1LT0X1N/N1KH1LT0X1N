@@ -21,9 +21,11 @@
 
 ---
 
-<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+<h2 align="center">👨‍💻 About Me</h2>
 
-## 👨‍💻 About Me
+<p align="center">
+  <img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+</p>
 
 ```yaml
 name: Nikhil Pravin Pise
@@ -53,7 +55,7 @@ achievements:
 
 ---
 
-## � Featured Projects
+<h2 align="center">🚀 Featured Projects</h2>
 
 <p align="center">
   <a href="https://github.com/N1KH1LT0X1N/Pramana.AI">
@@ -75,7 +77,7 @@ achievements:
 
 ---
 
-## 🛠️ Tech Arsenal
+<h2 align="center">🛠️ Tech Arsenal</h2>
 
 <p align="center">
   <b>🤖 AI/ML & Data Science</b><br><br>
@@ -115,7 +117,7 @@ achievements:
 
 ---
 
-## 📊 GitHub Analytics
+<h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats-six-seven.vercel.app/api?username=N1KH1LT0X1N&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9" alt="GitHub Stats"/>
@@ -128,7 +130,7 @@ achievements:
 
 ---
 
-## 📈 Activity Graph
+<h2 align="center">📈 Activity Graph</h2>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=N1KH1LT0X1N&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=667eea&line=764ba2&point=ffffff&area=true&area_color=667eea" alt="Activity Graph" width="100%"/>
@@ -136,18 +138,18 @@ achievements:
 
 ---
 
-## 🐍 Contribution Snake
+<h2 align="center">🐍 Contribution Snake</h2>
 
-<div align="center">
+<p align="center">
   <img src="https://raw.githubusercontent.com/N1KH1LT0X1N/N1KH1LT0X1N/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="snake animation" width="100%"/>
   <img src="https://raw.githubusercontent.com/N1KH1LT0X1N/N1KH1LT0X1N/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="snake animation" width="100%"/>
-</div>
+</p>
 
 ---
 
-## 🏅 Achievements & Recognition
+<h2 align="center">🏅 Achievements & Recognition</h2>
 
-<p align="center">
+<div align="center">
 
 | 🏆 | Achievement | Event |
 |:--:|:------------|:------|
@@ -160,11 +162,11 @@ achievements:
 | 🎓 | **INSPIRE Scholarship** | Top 1% Nationally (Class XII) |
 | 📜 | **CS50x, CS50P, CS50AI** | Harvard University |
 
-</p>
+</div>
 
 ---
 
-## 🤝 Let's Connect
+<h2 align="center">🤝 Let's Connect</h2>
 
 <p align="center">
   <a href="https://linkedin.com/in/nikhil-pravin-pise">
