@@ -11,15 +11,33 @@ from pathlib import Path
 from urllib.request import urlopen, Request
 
 USERNAME = "N1KH1LT0X1N"
-URL = f"https://streak-stats.demolab.com?user={USERNAME}"
+URLS = [
+    f"https://github-readme-streak-stats.herokuapp.com?user={USERNAME}",
+    f"https://streak-stats.demolab.com?user={USERNAME}",
+]
 OUT_PATH = Path("output") / "github-streak.svg"
 
 
-def fetch_svg(url: str) -> str:
-    req = Request(url, headers={"User-Agent": "github-actions/1.0"})
-    with urlopen(req, timeout=30) as r:
-        data = r.read()
-    return data.decode("utf-8")
+def fetch_svg() -> str:
+    """Try fetching SVG from multiple mirrors until one works."""
+    # Use a generic user-agent to avoid being blocked by some endpoints
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    }
+    
+    errors = []
+    for url in URLS:
+        print(f"Trying fetching from: {url}")
+        try:
+            req = Request(url, headers=headers)
+            with urlopen(req, timeout=15) as r:
+                data = r.read()
+            return data.decode("utf-8")
+        except Exception as e:
+            print(f"Failed {url}: {e}")
+            errors.append(f"{url}: {e}")
+            
+    raise Exception(f"All URLs failed: {errors}")
 
 
 def recolor(svg_text: str) -> str:
@@ -57,7 +75,7 @@ def write_if_changed(path: Path, content: str) -> bool:
 
 def main() -> int:
     try:
-        svg = fetch_svg(URL)
+        svg = fetch_svg()
     except Exception as e:
         print(f"Failed to fetch SVG: {e}")
         return 2
