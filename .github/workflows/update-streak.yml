@@ -29,6 +29,8 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global credential.helper store
+          echo "https://x-access-token:${GITHUB_TOKEN}@github.com" > ~/.git-credentials
           git add output/github-streak.svg
           if ! git diff --staged --quiet; then
             git commit -m "chore(streak): refresh generated streak SVG"
